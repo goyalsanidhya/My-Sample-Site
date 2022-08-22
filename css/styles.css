@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(109, 99, 99);
+}
+
+.firstContainer{
+    padding: 100px;
+    background-color: rgb(189, 252, 252);
+    position: relative;
+}
+
+.topCloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottomCloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+h1{
+    font-family: 'Michroma', sans-serif;
+    font-size: 3.125rem;
+}
+
+h3{
+    font-family: 'Michroma', sans-serif;
+    margin: 15px 0;
+    font-size: 1.875rem;
+}
+
+.lowerImg{
+    display: block;
+    margin: 0 auto;
+    border: 0px solid black;
+    border-radius: 50%;
+    padding-top: 20px;
+}
+
+.secondContainer{
+    margin-top: 40px;
+}
+
+h2{
+    margin: 20px 0 5px 0;
+    font-size: 2.5rem;
+    color: rgb(128, 235, 235);
+}
+
+.thirdContainer p{
+    text-align: left;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.firstSkill img{
+    float: left;
+}
+
+.secondSkill img{
+    float: right;
+}
+
+.firstSkill{
+    margin-bottom: 80px;
+}
+
+.thirdContainer{
+    width: 50%;
+    margin: 10px auto 0 auto;
+}
+
+.btn{
+    display: inline-block;
+    border: 1px solid rgb(17, 216, 216);
+    padding: 10px;
+    margin: 40px 15px;
+    border-radius: 25px;
+    text-decoration: none;
+    background-color: rgb(128, 235, 235);
+    color: white;
+    font-size: 1.4rem;
+}
+
+p{
+    font-family: 'Kalam', cursive;
+    margin: 5px 0;
+    font-size: 1.15rem;
+    width: 50%;
+    margin: 0 auto;
+}
+
+h4{
+    margin: 10px auto;
+    font-size: 1.5rem;
+    text-align: left;
+    width: 50%;
+}
+h5{
+    font-size: 1.3rem;
+    margin: 5px 0 10px 0;
+}
+
+.compImg{
+    width: 20%;
+}
+
+hr{
+    margin-top: 100px; 
+}
+
+.secondSkill h4{
+    width: 50%;
+    margin: 0 auto;
+}
+
+hr{
+    width: 7.5%;
+    border: 10px dotted;
+    border-style: none none dotted;
+    color: lightblue;
+    margin: 150px auto;
+}
+
+.lowHr{
+    margin-top: 175px;
+}
+
+footer{
+    background-color: rgb(128, 235, 235);
+    padding: 20px;
+    font-size: 1.1rem;
+    margin-top: 10px;
+}
+
+footer p{
+    font-family: sans-serif;
+}
+
+.btn:hover{
+    color: rgb(128, 235, 235);
+    background-color: white;
+}
